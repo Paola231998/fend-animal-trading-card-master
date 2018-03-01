@@ -1,0 +1,54 @@
+/* add your CSS here */
+.card{
+    border:1px solid grey;  
+    padding:10px;
+    width:400px;
+    height:100%;
+    font-family: 'Lato', sans-serif;
+    font-size:18px;
+  cursor:pointer;
+  background-color:#;
+}
+
+#link{
+  text-decoration: none;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+h3{
+    font-size:70px;
+    padding:1px;
+    text-transform:uppercase;
+    text-align:center;
+    background-color:pink;
+  color:#fff;
+  border:1px solid #111;
+
+}
+img{
+    width:300px;
+    border-radius:10px;
+    box-sizing:border-box;
+    height:auto;
+    display:block;
+    margin:auto;
+  opacity:0.9;
+  transition: .3s;
+}
+img:hover{
+  opacity:1;
+}
+
+#dog{
+    border:1px solid grey;  
+    padding:3px;
+    background-color:pink;
+    text-align:center;
+  color:#fff;
+    }
+    
+.p{
+    font-style: italic;
